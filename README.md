@@ -5,7 +5,7 @@
         width="200"
     />
 
-# Monomorphism-Lib
+# Monomorphism
 
 A library makes GTM addon development easy.
 
